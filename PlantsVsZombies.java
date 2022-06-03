@@ -1,8 +1,3 @@
-/*
- Grupo: 19
- HAROON SAMMARAIE
- FRANCISCO JAVIER LOZANO HERNÁNDEZ
-*/
 
 package tp.pr3;
 
